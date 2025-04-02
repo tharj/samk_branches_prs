@@ -1,0 +1,7 @@
+age,income,education,credit_score,defaulted
+25,50000,Bachelor's,680,No
+30,60000,Master's,700,No
+35,80000,PhD,720,No
+40,40000,Bachelor's,650,Yes
+45,30000,High School,600,Yes
+
